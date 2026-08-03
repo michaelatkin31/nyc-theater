@@ -214,7 +214,7 @@
         <div class="quick-row">
           <button class="quick" type="button" id="tonight">Tonight</button>
           <button class="quick" type="button" id="week">7 days</button>
-          <button class="quick" type="button" id="clear">Clear</button>
+          <button class="quick" type="button" id="clear">Reset</button>
         </div>
       </div>
     </div>
@@ -408,7 +408,7 @@
       search.value = '';
       venue.value = '';
       datePicker.value = '';
-      setAllDates('off');
+      setAllDates('all');
     });
     search.addEventListener('input', render);
     venue.addEventListener('change', render);
@@ -428,11 +428,7 @@
     buildDateStrip();
     datePicker.min = localISO(dateAt(0));
     datePicker.max = localISO(dateAt(DATA.horizon_days));
-    const today = localISO(dateAt(0));
-    const hasTonight = DATA.events.some(event => event.performances.some(performance =>
-      performance.date === today && performance.minutes >= 17 * 60 && performanceIsFuture(performance)));
-    if (hasTonight) dateStates.set(today, 'evening');
-    else dateStates.forEach((_, date) => dateStates.set(date, 'all'));
+    dateStates.forEach((_, date) => dateStates.set(date, 'all'));
     updateDateButtons();
     render();
   </script>
