@@ -1,4 +1,12 @@
-# NYC Indie Theater
+# NYC Indie Theater (moved)
+
+The live site and maintained code now live in the [`films`](https://github.com/michaelatkin31/films/tree/main/theater) repository:
+
+**[michaelatkin31.github.io/films/theater/](https://michaelatkin31.github.io/films/theater/)**
+
+This repository remains as the original MVP history. Its GitHub Pages root redirects to the combined site.
+
+## Original MVP
 
 A phone-first, date-first guide to performances at ten independent and artist-led New York theater presenters.
 
