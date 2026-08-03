@@ -1,0 +1,2070 @@
+{
+  "venue": "The Tank",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "tank-be26920abbb3",
+      "title": "Doll Brawl",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Maxine has just lost her job, is sleeping on her ex-boyfriend's couch and is three months behind on rent. So when she starts making fetish content to pay her bills she enlists the help of her one and only friend, Elena. As the duo's popularity rises, the requests from their “fans” become stranger and darker, and…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=153201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-02T15:00:00-04:00"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-03T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-3c836d6f3199",
+      "title": "WHAT A WORLD! WHAT A WORLD!",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "The 1943 melodrama The Pearl of My Oyster could be a camp masterpiece, an erotic transfixion, a flicker of joy amidst utter terror, or it might just be a dumb old movie. Two performers try to sort it out and things get heated…does anyone need an Altoid?",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=114202&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-02T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-4d0d38ffb827",
+      "title": "Lacuna: Remastered",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Lacuna: Remastered is a genre-defying performance piece in which a writer named C. descends into her own subconscious to recover the fragments of a life and an artistic process in pieces. Guided by Virgilia, a Commedia dell'arte trickster in the spirit of a 70s talk show host, and Memi, a cellist who wages a quiet…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=138801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-02T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-3f26359a8b37",
+      "title": "HatHead",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "HatHead is a heartfelt slice-of-life dramedy seen through the eyes of a family navigating the changing landscape of dementia. Over ten years, the play beautifully chronicles siblings Nell and Robert as they care for their mother, Denise. From frantic midnight escapades in platform shoes to avoid \"\"poisoned\"\" floors,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=151601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-03",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-03T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-04T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-05T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-06",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-06T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-adb40dd4fbbb",
+      "title": "Sleep Over",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "In a suburban house in a suburban town somewhere in New Jersey, Sadie, Olivia, Ellie and Jackson celebrate the end of their junior year of high school. It’s 2014 and they have the whole world ahead of them, but tonight, all that matters is the latest gossip, bonding as best friends, and the secrets that come out, or…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=146401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-03",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-03T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-04T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-05T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-6dc21e91a74e",
+      "title": "OVERFLOW",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "**OVERFLOW** follows the life of a woman with severe personality disorder as she spirals through memories, relationships, emotional extremes, distorted perceptions, and a fragmented sense of reality in a fever dream like reflection of her life. Blurring the line between reality, memory, fantasy, delusion, and…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=131003&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-04T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-05T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-06",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-06T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-60dae19341f9",
+      "title": "Lilith",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Before Eve, there was Lilith—the first woman, who would not bow to Adam or to God’s order. Yet love ties her to the garden as she and Eve forge a bond of desire and defiance. Lilith, a new play by Adina Aaron and directed by Samantha Ozeas, is new interpretation of the myth that investigates the gender dynamics,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=136001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-07",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-07T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-08T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-09T15:00:00-04:00"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-12T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-13T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-21T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-22T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-9d6f9d0d1afb",
+      "title": "Moonlighters",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "When an undercover cop who's frustrated with their job meets a vampire who's also a career criminal, both of their worlds change. Moonlighters is a story of the circumstances we've ended up in, what we can do to get out of them and finding solace in the darkness all held inspired by many things, but mainly Can't…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=137601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-07",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-07T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-08T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-e1e6f5d334c5",
+      "title": "Armory Improv House Teams",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Rambunctious, daring, hilarious, provoking, and fun. Trust us - You've never experienced a night of improvisation quite like this.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=64601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-07",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-07T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-14T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-21T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-28T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-04T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-11T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-18T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-25T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f95fafccc848",
+      "title": "Baby Bipolar",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Have you ever been personally victimized by MyChart or found yourself writing a bad review for your therapist? Maria has. Baby Bipolar is the story of one woman’s journey from getting diagnosed with bipolar 1 to embracing a life where that doesn’t have to be a bad thing. Winner of the “Old Greeny Laughs Too” award at…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=137602&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-07",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-07T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f08ab3a9fef4",
+      "title": "Brace Yourself: A Musical Apocalypse",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "\"Brace Yourself: A Musical Apocalypse\" follows Holly, a young girl trying to make her orthodontist appointment to have her braces removed... on the first day of a sudden apocalypse. Along the way, Holly and her friends learn that in an unforgiving world, change is inevitable and usually unexpected. The future you…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=151201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-08",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-08T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-952fe245edb8",
+      "title": "Lizzie Borden Took an Axe",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Step into the mystery! Join Lizzie Borden (performed in drag) on the anniversary of the infamous axe murders of her father and stepmother for a chilling evening where the ghosts of the past return and long-buried secrets are revealed. Lizzie exposes her version of the events leading up to the brutal killings of…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=146002&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-08",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-08T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-54a119df1052",
+      "title": "CCC: A Montalk in the PanMonticon",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "“CCC: A Montalk In the PanMonticon” is an interactive one-woman-show performed, directed, and written by Montgomerie West that physicalizes the digital experience of ideas, information, and social media circulating. The play centers around Montie, who with the help of stagehands guides the audience in a…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=137801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-08",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-08T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-e3b7dd2e0842",
+      "title": "Lake Effect",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Lake Effect is a sharp, darkly funny two-hander about siblings Ari and Shana, stuck in a cabin and in each other across time. As identity, trauma, sex, and family tension collide, their bond starts to feel less like home and more like a storm they’re trapped inside.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=142201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-08",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-08T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-12bcddbbf366",
+      "title": "Jumping Off Point",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Petey wakes up tangled in ropes. In a group no one wants to be a part of. There's a box of Krispy Kreme donuts. And also the world is ending in two months.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=154401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-09T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-b6fec9dfa434",
+      "title": "Bubblewrapping the Gay Bar",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Welcome to Seagull’s Gay Bar! Bar manager Dexter works hard to ensure that it’s a safe space, but his best friend Daphne doesn’t think it’s safe enough for Julian, her boyfriend. Er. Partner. With Dexter’s blessing, Daphne wants to institute a few well-intended guidelines. Well, maybe more than a few…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=152201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-09T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-4b4d50071ffd",
+      "title": "End of the Day, Ep 1",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Survival isn’t guaranteed. Neither is coupling up after a massive extinction event. But British reality contestants Tud, Myleigh, and Lancelot keep trying - failing, and failing better. Isolated from the outside world, they dance between denial and acceptance, searching for love and meaning in a pointless, absurd…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=143201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-09T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-c65f34f1131a",
+      "title": "And Eat It Too",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Described as a mix between The Boys in the Band, The Exterminating Angel, and No Exit, And Eat It Too follows a long term friend group through what should be a normal unspecific game night hang, if not for each member bringing in their own self centered baggage to derail the evening.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=137001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-09T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-b13ede63ef48",
+      "title": "Franklin the Turtle",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "He was a turtle. She was a girl. And then there’s drugs. Franklin the Turtle is a hilarious and heartbreaking one-woman show about addiction, stigma, and the unexpected creatures that help us survive.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=144401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-09T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-10",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-10T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-72364f484382",
+      "title": "Lunaticus",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "When sudden spells of aphasia and mysterious blackout episodes lead to a life-changing neurological diagnosis, Danielle is left to navigate an escalating disability while sorting through her relationships, confronting her mortality, and reckoning with an unexpectedly fractured sense of self. LUNATICUS is a quirky,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=145201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-10T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-2fb41fe4aa59",
+      "title": "METASTASIZED",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "METASTASIZED. a dark comedy. Helena might be dying. But not according to her husband, Stan, who recently became a Personal Death Healer. Their adult children, Harley and Maeve, agree to participate in structured, holistic, guru-esque, family time. Together, they will heal Helena of death! There is also a kazoo. It's…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=141801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-10T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a7702fb022c4",
+      "title": "Smash Season 3: The Smashening",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Ten years after Tom and Julia parted ways as creative partners, Julia has finally completed her Great Gatsby adaptation. However, she has been turned into a giant pile of scarves. Tom, feeling he has to see out her vision, reunites the Bombshell crew to bring the show to BROADWAY! A parody of the hit NBC television…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=137401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-10",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-10T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-11T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f41979836e66",
+      "title": "Ad Hominem",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "NYU’s Parliamentary Debate Society has made it to the 2035 World Universities Debating Championship, under the leadership of their go-getter president Bleecker, whose years-long rivalry with Oxford Union president Fish‘N’Chips has been the only thing standing between her and WUDC victory. This year’s championship is…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=149802&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-11T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a68a4c57bc7e",
+      "title": "I don't know, then we die",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Claire and Mona, best friends for life, lock themselves in the girls' bathroom and get ready for one last school dance before the climate apocalypse ruins everything — including their makeup. Claire knows a secret about the mysterious and deadly Floodwater Flu ravaging their town, but Mona might be too self-absorbed…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=139801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-11",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-11T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-12T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-04ed69e1c311",
+      "title": "Little Spoons",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "STRANGEGIRLZZ’ WERE LOOKING FOR BOYFRIEND. THEY FOUND ONE MAN WHO UNDERSTOOD WHAT IT WAS TO SUFFER AND SACRIFICE LIFE FOR OTHERS- JESUS CHRIST- AND WE WENT TO FIND HIM AT A MONASTERY. AND THEY TOOK AWAY OUR FORKS AND OUR KNIVES AND OUR BODIES AND ALL WE HAD WERE LITTLE SPOONS. WE SHARED OUR MONEY AND CHILDREN AND…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=145002&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-11",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-11T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-c3f1fb4a9182",
+      "title": "INVINCIBLE / THE BULLETS PASS THROUGH ME / LIKE LIGHT",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "INVINCIBLE / THE BULLETS PASS THROUGH ME / LIKE LIGHT follows the ghost of an old Korean woman killed in a hate shooting who teams up with a comedian to find the killer.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=151801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-12",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-12T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-d8f167195bf8",
+      "title": "REPLACED!",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "REPLACED! is a surrealist sci-fi tragicomedy following a young woman identified only as a Daughter who returns to her hometown to find that everyone in it has been replaced by aliens. Not knowing who’s real and who isn’t, she has to figure out how to live in this new, or if she even wants to. Hailed as “an…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=147801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-12",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-12T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-3a6fe0896527",
+      "title": "BROS B4 HOS",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "How much can happen before the semester starts?",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=149002&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-13",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-13T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-14T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-81a4ac8cc52e",
+      "title": "MOONBODIES",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "MOONBODIES is an erotic horror play set in a nightmarish near-future New York City, where Shelley, a vibrant nightclub performer battling lifelong body dysmorphia and eating disorders, enrolls in an experimental drug trial that slowly transforms her into a werewolf. The catch: the drug only works if she eats. Using…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=142802&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-13",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-13T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-0f568f00a964",
+      "title": "Godfriend",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Equal parts true story, theatrical play, live music, and spiritual gathering, Godfriend asks audiences to practice radical belief in each other while facing uncertain futures. College professors and real-life couple Hal and Elle ask: should they have a child? As a trans man and a cis woman, the couple wonders if…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=133601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-14",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-14T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-15T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-16T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f88e0d2fc34c",
+      "title": "Trauma Play",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Britt Benson is flying high as her buzzy, autobiographical new play gets national news coverage before it even premieres. But once the cameras start rolling the play is no longer center stage and she finds the childhood trauma she experienced suddenly publicized and scrutinized. Determined to make it to opening…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=141201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-14",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-14T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-c462d0e66a2c",
+      "title": "Role/Play",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "A dark comedy about identity, intimacy, and the personas we create. As fantasy and reality collide, a group of strangers discovers the hardest role to play is themselves.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=152401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-14",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-14T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-2db02e9646ff",
+      "title": "Joanna",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "\"It’s been six years since Joanna vanished. But Kate doesn’t know about that. Kate is fine. She just moved in with Marcus—which is good! It’s great, actually. He’s really working on himself. He’s reading books about stress management. He’s doing so well that he hasn’t even told her about his former girlfriend who…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=146001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-15",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-15T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-ec01d54d42cc",
+      "title": "Will You Walk Into My Parlour?",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "DC Martin, winner of the RTB Theatre Staged Reading Award, presents a new original play: Will You Walk Into My Parlour? When five friends take refuge from a storm in an old cabin they become pawns in an evil game. Brought to you by Dead Horse Productions, a multimedia production company committed to storytelling…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=140402&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-15",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-15T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-0d6ba7341126",
+      "title": "How to Quit: A Look Back at Things I Should Have Walked Away From a Long Time Ago",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Everyone knows how to quit. Easiest thing in the world, right? Tonight, a renowned local expert in how to quit will share everything that research has uncovered on this time-honored tradition of easily walking away from situations that are not for you. Not that you need it. You already know how to quit, right, right?…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=146601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-15",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-15T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-5c684c124c00",
+      "title": "POPS",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Twins Michael and Michaela and their mother Dot have all reunited in their small Southwest town following the untimely passing of their estranged father. Each lost in their own way, they each secretly turn to the arms of the same mysterious escort, \"The Man\" in order to help them discover, through their own strange…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=150401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-15",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-15T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-fd7d92b7e957",
+      "title": "whatever happened to the girls?",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "We’re standing on the corner and you’re laughing at everything I say. You’re literally doubling over. I’m amazed, watching you, because how can you laugh at everything I say but not want to love me, especially when what I’m saying isn’t particularly funny? This play is about that, that day standing on the corner in…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=150601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-15",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-15T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-16T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-1b827b92bbcb",
+      "title": "Don’t Call Me Virgin",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "When you’re caught up in an arranged marriage ordained by God, things aren’t always easy. A fun little slice of life, from the Espousal through the Nativity, we follow Mary and Joseph as they navigate their new relationship and approach the birth of their child.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=143401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-16",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-16T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a10d545e8395",
+      "title": "JUMP!",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "A time traveling secret agent goes on a quest to save the world from nuclear war. Her caveman boyfriend, a sentient potato, and her mommy issues are all at play in JUMP!",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=147401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-16",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-16T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-5ce0344f03ef",
+      "title": "Recess Gender Clinic",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Max is a 12-year old trans boy trying to make sense of the world's response to his transness. Outside of school, he spends his time vlogging about magic tricks and thinking about space, all while being (reluctantly) guided by the Star Friends—magical manifestations of trans histories and possible futures. Meanwhile,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=146801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-16",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-16T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-deacdc11e1d5",
+      "title": "GOOD MOTHERS (Keep Calm and Carry On)",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "GOOD MOTHERS (KEEP CALM AND CARRY ON) Four mothers walk into a support group. One can't stop thinking about a sandstorm, one is convinced a British nurse accused of murdering babies has been profoundly misunderstood, one hears God through the walls, and another unravels beneath the weight of perfection. Every…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=141601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-16",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-16T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-5dc9224e0034",
+      "title": "I close the gap, I figure it out",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "You turn thirteen, your parents divorce, and your mom leaves. Now you have to figure out femininity without her. How do you do it? If you’re me, you learn everything you need to know from a self-help book written by an Old Hollywood movie star.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=151401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-17",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-17T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-7bee7ea732cb",
+      "title": "Mayday",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Since Belinda’s death, Joan and Ellis have determinedly kept their distance. But after three years of no contact, Joan reappears in Ellis’ life with a million-dollar opportunity—which should be something of a miracle for her late daughter’s boyfriend. All he has to do is finish the collection of paintings underway at…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=153601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-17",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-17T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-27ccd4100333",
+      "title": "BLACKOUT",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "We fight to become someone new, but what if we’re destined to repeat the very lives we’re trying to escape? BLACKOUT is a familial drama set during a hurricane in Florida that blends Reiki, queerness, generational trauma, and latine identity. It is an intimate yet universal story about love, pain, and the cycles we…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=147002&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-17",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-17T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f1116240a914",
+      "title": "Your Son Looks Like A Girl by Jane Domenghini / Benefits by Natalia Shane",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Your Son Looks Like A Girl by Jane Domenghini A one woman show about you. Seriously, this play is about you. Benefits by Natalia Shane A three woman tragicomedy that chronicles Lesbians, death-spiral best friends, and the virtues of cosmesis.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=138602&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-17",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-17T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f779b7b32231",
+      "title": "She Is Risen",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Infertile and isolated from her community, Brooklyn Museum historian Iris seeks vindication the only way she knows how. In preparation for the opening of her curatorial magnum opus, \"She Is Risen: Global Burial Practices Through an Intersectional Feminist Lens\", Iris charms prenatal yoga instructor Holden into a…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=145003&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-18",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-18T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a2bdad1bc543",
+      "title": "This Is Where You Live",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Twyla loses her job, Eric goes through a break-up, Blair invents a lid, and Carl is in a cave. No one really knows what time it is, or what time even is. This Is Where You Live is a comedy about the rugs that get pulled up from under us and whether they were all that cozy to begin with.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=144601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-18",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-18T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-3315c3fa0480",
+      "title": "fly away with me.",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "When small-town girl May and Type-A finance guy Theo literally crash into each other at a Virginia airport, their connection is instant, quirky, and impossible to ignore. With May’s flight to Los Angeles boarding in mere minutes, the pair decides to take a spontaneous leap of faith. \"fly away with me.\" is a…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=142001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-18",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-18T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-83887b78a56c",
+      "title": "Radically Single",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Three college seniors, two dorm rooms, one evening. Clara is ready for another long night of semi-voluntary isolation. She’s somehow failed to make a single close friend at her microscopic rural liberal arts college. She looks forward to regular long phone calls with her romance-addicted, neurotic, self-described…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=150001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-18",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-18T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-dae34148e4f1",
+      "title": "Autofiction",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "A developmental showing of a new play about storytelling, lying, friendship, and the artistic life. Written by Kallan Dana, directed by Hanna Yurfest, produced by Needy Lover.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=147601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-19",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-19T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-930d9b7ead61",
+      "title": "that pig annaliese",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Jason and Nick will do anything to win Annaliese's affection. Buying her a pig is just step one. A dark satire about sitcoms, misogyny, and society’s most controversial animal.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=146201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-19",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-19T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-ca33177ca5f0",
+      "title": "A Raisin' on Up",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "WELCOME TO THE GAME OF AMERICAN MIDDLE CLASS Play to win Black Excellence and hang with the Jeffersons or lose and end up in poverty with the Younger Family.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=151001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-19",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-19T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-050b6861399b",
+      "title": "University Of Me",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Join Maude Lardner Burke as she takes you on her journey of sex, love, the Hollywood Blacklist, and the power of song!",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=141001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-19",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-19T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f0cd9766a6bf",
+      "title": "Do I Know You?",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Do I Know You? follows Kat, a emotionally stunted English major, coming of age in her junior year of college. Her first fight with her best friend and department rival, Ace. Her first relationship with a confident premed student, June. Her first missed deadline to her teacher and confidante, Alice. And her second.…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=153801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-20",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-20T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-511d84242143",
+      "title": "extra(terrestrial)",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "\"Andie the alien is trying to become a human. The Scientist has a new way to study her. Together, they travel to the Andromeda Galaxy and embark on a journey through Time, Space, and Possibility. “extra(terrestrial)” uses visions from the past, humor, surrealism, mythology, and “The Little Mermaid” to explore…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=149801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-20",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-20T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-22T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-ba7c2a140d1b",
+      "title": "Party Girl",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Party Girl is the one woman show of your dreams! This girl just wants to have fun and be sexy. And never think about the economy. Or death. After years of losing love, scraping by at minimum wage, and smoking weak-ass weed, she's determined to have the most fabulous night ever, at any cost. Even blood.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=141602&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-20",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-20T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-22T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-66f01cebbe1b",
+      "title": "The Train",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "coming soon!",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=144801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-20",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-20T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-d31c06a59c36",
+      "title": "Exes in Every Corner",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Jane loves weddings. It’s one of the reasons she became a wedding photographer. But when she starts running into her own exes at these weddings, she is confronted with more than uncomfortable reunions. She also finds herself navigating the complicated feelings of past love, self worth and ultimately, resilience.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=145801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-21",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-21T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-2f7ca4ed15f7",
+      "title": "Eyes Shut. Door Open.",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "\"Cassie M. Seinuk, Playwright Christopher Randolph, Director Michael Underhill, TURNER Emma Svitil, JOHANNA TBD..., PALMER TBD..., Stage Direction Reader Patrick R. Greene, Original sound design and composer CMS Productions, Producers\"",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=141401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-21",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-21T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-94f53580232e",
+      "title": "Action开拍",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "When I was 18, I discovered that my great-grandfather directed 21 films in 1930s China. Why did nobody ever tell me? Where can I find his films? What did he believe in as an artist? Now, I step onstage, searching through fragments for answers—in a world still falling apart.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=142401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-22",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-22T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-53fc99da274e",
+      "title": "Crux",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Does blood alone anoint revolution? In a Northern Ireland jail cell, Bobby Sands contemplates the role of violence in revolution as he begins his hunger strike. When the death of a government leader opens up a seat in Parliament, Sands must decide what message he wants to embody and exactly what sacrifice he wants to…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=145401&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-22",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-22T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-8c90d88a4eef",
+      "title": "A will-o'-wisp Encounter: As presented to the Council on Mythological and Magical Beings",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "A Will’o’wisp Encounter: as Presented to the Council of Mythical and Magical Creatures is a funny and moving concert theater experience about grief, magic, and the strange things that find us when we are lost. Presented as a formal report to the Council on Mythical and Magical Creatures, Camille Harris (writer and…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=143601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-23",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-23T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-0b2028564a3b",
+      "title": "It Just Takes Time",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "A college student, a restaurant owner, a shelter puppy, an engaged couple, and a kindergarten teacher - what do they have in common? Not much, until COVID-19 forces them to forgo their plans and figure out a new normal. The characters navigate anxiety, loneliness, impatience, and loss while learning to lean on one…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=140601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-23",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-23T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a21142e2d7be",
+      "title": "Sublimation / Irisation",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "| An angel haunts you with visions of overlapping infinities. | | Rings encircle the moon with a growing shimmer. | | I am beginning to remember the time we spent by the water. | A collage of sound, story, and spectacle, Sublimation / Irisation is a trans odyssey into the afterlife/atmosphere. Presented as a…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=148001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-23",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-23T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f2b5613b54cb",
+      "title": "The Last Leaf",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "What does love mean to you? How do you express it? Can you move forward while still longing to stay within the memories? The Last Leaf is Sydney Yu's autobiographical journey through her grandfather's illness and the family she left behind. Born in Sydney, raised in Beijing, and now living in the U.S., Sydney often…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=148201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-23",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-23T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-1e5687d2fc01",
+      "title": "The Oval Self-Portrait",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "On a stormy night in 2007, at the dawn of the social media age, burnt-out vlogger Kelly finds a mysterious diary in the old house she’s retreated to. Reading it, she meets Ruth, a self-destructive painter from 1959 wrestling with her own unstoppable drive for artistic transcendence—even at the cost of her selfhood.…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=149201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-23",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-23T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-91851293c5c1",
+      "title": "The Lolita Apologies",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "The Lolita Apologies returns to NYC following its critically acclaimed run at the Edinburgh Fringe Festival last summer. Fringe Review’s Hidden Gem of the Festival presents its first full staging in the United States. Called “the kind of theatre that provokes conversation…and lingers in your thoughts days later,” and…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=155001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-24",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-24T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-26T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-28T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-ceed059c78cb",
+      "title": "The Moon Rituals",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Five friends form an amateur witches’ coven to cast a healing spell... and accidentally summon a demon. As the demon draws people to it's space (a vacation rental property) to feed on their pelvic pain, the friends try and complete healing rituals to assuage their pain. The demon interrupts each ritual just as…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=115001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-24",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-24T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-26T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-28T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-30T15:00:00-04:00"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-30T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-01T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-03T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-04T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-e24696fb5b0c",
+      "title": "Affairs of the Heart",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "A tragedy that occurred in history and immortalized in The Divine Comedy, Affairs Of The Heart tells the tragic love story of Francesca Da Rimini and Paolo Malatesta. With moments inspired by the art pieces that helped tell their story throughout centuries. Written for a modern audience, this retelling decides to fix…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=118001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-25",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-25T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-26T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-29T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-2876d7686436",
+      "title": "Casa Ajena",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Limón Theater Company presents it's newest production, Casa Ajena! Casa Ajena is a play inspired by true events bridging three familial generations of young Latinas in a real time evolving home established by the matriarch, Gloria. Written by Amber Barrios & Directed by Maya Renee Castro",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=154001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-25",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-25T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-27T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-30T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-01T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-03T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-7ee859bb9b23",
+      "title": "search for what i left",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Two scientists attempt to uncover hidden truths about the brain and its functionality. By pitting two subjects in a series of trials attempting to induce the recollection of memory — and by extension identity — they stage a collision between what is forgotten and what is remembered.",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=134001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-27",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-27T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-28T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-29T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a11195937e6c",
+      "title": "Close Distance Disappearing Acts",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Not all RomComs deserve a happily ever after. But this one might just kill for it. Close Distance Disappearing Acts is sexy, funny, and deliciously dangerous. ANDY is a quirky vigilante on a mission: clearing nerd conventions of \"bad bad men.\" PETER is the kind of man who shouldn't exist — unapologetically Irish,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=117601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-27",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-27T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-28T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-29T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-30T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-51a3256c934c",
+      "title": "Le Blanc",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Through a series of interviews and vignettes, Le Blanc explores the life of Wellington, a world infamous, Black, queer superstar from his humble beginnings as a motherless child in the foster/adoption system of California, to his sexy exploits as a serial monogamist with a diverse selection of male and female lovers,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=144201&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-27",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-27T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-29T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-0238adc7ccd6",
+      "title": "Dodoland",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "On a trash island in the middle of the ocean, the last dodo lives a lonely life. One day, he finds a plastic egg and tries his very best to hatch it. Dodoland is an humorous, absurd puppet show about memory, extinction, trash, and the things we’re willing to throw away. Presented by CAN TUNA as a fully-staged…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=153001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-02",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-02T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-03T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-694651d924f2",
+      "title": "Perfect Dead Girls",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "There are three rules… 1. You can do anything you want 2. You can’t leave until they let you 3. They are always watching In a purgatory plastered with graffiti, glitter, and teenage angst, two young girls find themselves trapped after their sudden deaths only to discover that they are not alone: something else is…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=123402&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-02",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-02T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-03T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-05T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-05T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-f7f987386f10",
+      "title": "QUEEN FOR A DAY",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "American fashion designer Halston is down on his luck. He's packing up his chic-as-hell Olympic Tower office for reasons he doesn't want to discuss. To make matters worse, Elizabeth I is knocking on his door. Yes, Elizabeth I, whose reign as Queen of England ended in 1603. But it's 1984 in New York City. All that…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=134601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-05T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-06T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-12T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-13T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-14",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-14T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-5e11609ceb9f",
+      "title": "FOMO: Formerly Mormon",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "FOMO: Formerly Mormon is the critically acclaimed, two-time award winning solo show by Frankie Lee. FOMO story of a young man discovering his queer identity while signing his life away to the Mormon Church. Frankie Lee genuinely and humorously reflects on the opportunity he took to escape Mormonism and live as a gay…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=155802&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-07",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-07T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-08T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-10T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-11T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-62c020b674de",
+      "title": "Road House Sketch Comedy - Presented by The Armory",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Road House is taking over The Tank for two fast-paced, high-energy sketch comedy shows. Experience the latest work from one of The Armory’s resident sketch ensembles. Each performance is a unique, one-night-only event filled the weird characters, crazy premises and other comedy buzz words!",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=139001&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-08",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-08T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-a3540ca5248a",
+      "title": "Dogs! Dogs! Dogs!",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "'Dogs! Dogs! Dogs!' joins an 8th grade squad on a high-school cross-country team as they run their little hormonal hearts out in the fall of 2011. A frenzied race through the dynamics of sex, love, and growing up, 'Dogs! Dogs! Dogs!' breathlessly begs the big questions: What is boyhood? Why does pain feel so good…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=155002&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-09",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-09T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-13T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-15T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-19T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-ab8c9d874816",
+      "title": "Very Blue Light",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Marfa, Texas. Two women reunite with their childhood best friend, only to find that his politics have gone askew. With uncertainty defining both the present and future, Angela faces the temptation of adopting her old friend’s conservative lifestyle, while Magna seeks (and finds) some certainty about her way forward…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=148801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-10T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-11T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-12T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-14",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-14T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-17T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-18T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-19T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-20T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-24T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-25T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-26T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-28T19:00:00-04:00"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-10-01T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-3f836e00fa41",
+      "title": "Mom and I Go To The Temple",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "\"Mom said we were just taking a simple trip to a temple hidden in the mountains of Malaysia. What she failed to mention was that this \"\"temple\"\" wasn't quite what it seemed. As the journey grew stranger, it became increasingly clear that mom knew far more than she was letting on—and that this wasn't going to be a…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=155801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-16",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-16T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-17T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-18T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-19T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-07f11051fa3f",
+      "title": "Caged Birds",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "From Show Boat to Hamilton, Black women's voices have been integral parts of the musical theatre canon. But while the sound of our voices is celebrated, we have had few opportunities to actually tell our own stories. In Caged Bird, creator and performer Zina Ellis weaves together history, sociology, personal stories,…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=152801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-17",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-17T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-18T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-ae8f16bbbd4b",
+      "title": "G.B.A.T.P.M.O.A.P.F.T.S.I.T.M.T.T.",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "Remember remember how the fifth of November was about nine months ago? G.B.A.T.P.M.O.A.P.F.T.S.I.T.M.T.T. Stands for Getting Back at the Prime Minister Over A Personal Feud That Started in the Mid-2000's is a show about a guy who wears a mask named G.B.A.T.P.M.O.A.P.F.T.S.I.T.M.T.T. who tries to get back at the…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=155601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-18",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-18T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-3bc92ec0144b",
+      "title": "Falls for Jodie",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "1980. New Haven, Connecticut — Four months before he will attempt to assassinate President Ronald Reagan, John Hinckley Jr. moves into the Colony Inn with a simple plan to make Jodie Foster his girlfriend. In his first night at the hotel, John and meets Eddie, the night concierge, where they discover a shared…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=148601&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-24",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-24T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-25T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-26T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-28T19:00:00-04:00"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-10-01T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "tank-da2ee1c7b3f8",
+      "title": "The Two Worlds Project",
+      "venue": "The Tank",
+      "venue_key": "tank",
+      "neighborhood": "Midtown West",
+      "description": "The Two Worlds Project is a verbatim documentary play that explores the urban-rural divide in New York State. Created from interviews with residents of the North Country and New York City, The Two Worlds Project examines the experiences, attitudes, and values of people in both regions regarding their local…",
+      "url": "https://tickets.thetanknyc.org/EventAvailability?EventId=154801&ref=bookNow",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-29",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-29T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-30T21:30:00-04:00"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-10-01T21:30:00-04:00"
+        }
+      ]
+    }
+  ]
+}

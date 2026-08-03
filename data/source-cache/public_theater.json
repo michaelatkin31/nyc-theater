@@ -1,0 +1,426 @@
+{
+  "venue": "The Public Theater",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "public_theater-0f9ca7be2605",
+      "title": "The Winter's Tale",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "Tony Award-winning director Daniel Sullivan returns to Free Shakespeare in the Park with a spellbinding new production of THE WINTER’S TALE.",
+      "url": "https://publictheater.org/productions/season/2526/sftc/the-winters-tale/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-02T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-04T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-05T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-06",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-06T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-07T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-08T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-09T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-11",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-11T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-12T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-13T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-14T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-15T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-16T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-18T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-19T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-20T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-21T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-22T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-23T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-204b3977b510",
+      "title": "Division and Renewal: An Evening with Michael Sandel",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "",
+      "url": "https://publictheater.org/productions/season/2526/forums/division-and-renewal-an-evening-with-michael-sandel/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-10",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-10T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-4dfa9e0e9f9f",
+      "title": "Summer Book Club Celebration with The New York Public Library",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "",
+      "url": "https://publictheater.org/productions/season/2526/forums/summer-book-club-celebration-with-the-new-york-public-library/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-17",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-17T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-992db7f552f7",
+      "title": "The Longest Picnic Blanket",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "",
+      "url": "https://publictheater.org/productions/season/2526/sftc/the-longest-picnic-blanket/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-21",
+          "time": "5:30pm",
+          "minutes": 1050,
+          "datetime": "2026-08-21T17:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-46fb163fcdb0",
+      "title": "Public Works' Public Record",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "New Yorkers from all five boroughs are coming together to create a live album—on stage, in real time.",
+      "url": "https://publictheater.org/productions/season/2526/sftc/public-works-public-record/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-04",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-04T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-05T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-06T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-07T20:00:00-04:00"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-09-08T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-8a02ad32af89",
+      "title": "How Shakespeare Saved My Life",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "In HOW SHAKESPEARE SAVED MY LIFE, Jacob Ming-Trent dares to rescue himself from the “slings and arrows” of his past.",
+      "url": "https://publictheater.org/productions/season/2627/how-shakespeare-saved-my-life/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-15",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-15T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-16T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-17T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-18T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "1:30pm",
+          "minutes": 810,
+          "datetime": "2026-09-19T13:30:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-19T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "1:30pm",
+          "minutes": 810,
+          "datetime": "2026-09-20T13:30:00-04:00"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-22T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-23T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-24T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-25T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "1:30pm",
+          "minutes": 810,
+          "datetime": "2026-09-26T13:30:00-04:00"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-26T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-27T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-29T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-30T19:30:00-04:00"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-10-01T19:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-d358205b551c",
+      "title": "Taylor Mac & Matt Ray: Songs from Bark of Millions",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "MacArthur Fellowship-winning icon Taylor Mac reunites with Obie Award-winning composer Matt Ray to share songs from their epic rock-opera meditation on queerness, BARK OF MILLIONS, featuring special guests and performers from the original production.",
+      "url": "https://publictheater.org/productions/season/2627/taylor-mac-matt-ray-songs-from-bark-of-millions/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-18",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-18T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-19T19:30:00-04:00"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-20T19:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "public_theater-193f75cc033d",
+      "title": "Good Time Charlie",
+      "venue": "The Public Theater",
+      "venue_key": "public_theater",
+      "neighborhood": "NoHo",
+      "description": "Spanning more than three decades, GOOD TIME CHARLIE is a multigenerational story of gay men growing up, falling in love, and cherishing the arts.",
+      "url": "https://publictheater.org/productions/season/2627/good-time-charlie/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-24",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-24T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-25T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-26T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-27T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-29T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-09-30T19:30:00-04:00"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-10-01T19:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

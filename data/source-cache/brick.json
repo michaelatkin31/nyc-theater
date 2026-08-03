@@ -1,0 +1,126 @@
+{
+  "venue": "The Brick",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "brick-6b024b2d3600",
+      "title": "Strange Men",
+      "venue": "The Brick",
+      "venue_key": "brick",
+      "neighborhood": "Williamsburg",
+      "description": "The Brick presents Strange Men by Sarah Bernstein playing July 30-Aug 2, 2026 at Brick Aux Studio, 628 Metropolitan Ave running time 100 minutes Four men are brought together by a dating coach who promises to help them make meaningful connections with women. In this dark comedy about what it means to be a man, both…",
+      "url": "https://www.bricktheater.com/event/strange-men/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "4:00pm",
+          "minutes": 960,
+          "datetime": "2026-08-02T16:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "brick-686aaf4e5432",
+      "title": "Real Estate",
+      "venue": "The Brick",
+      "venue_key": "brick",
+      "neighborhood": "Williamsburg",
+      "description": "The Brick presents Real Estate by Isa Spector playing Aug 6-15, 2026 at The Brick Theater running time 70 minutes tickets $25-50 David and Robert are constantly moving; moving houses, moving bodies, and moving against their desires. As they continue to find themselves in the wrong place, they draw closer to a fantasy…",
+      "url": "https://www.bricktheater.com/event/real-estate/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-06",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-06T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-07T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-08T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-10",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-10T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-12T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-13T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-14T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-15T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "brick-6c9a59d1a92a",
+      "title": "HOW TO BE NORMAL AND REGULAR",
+      "venue": "The Brick",
+      "venue_key": "brick",
+      "neighborhood": "Williamsburg",
+      "description": "The Brick presents HOW TO BE NORMAL AND REGULAR by Celia Krefter & Kate Purdum playing August 27-30, 2026 at Brick Aux Studio, 628 Metropolitan Ave running time 80 minutes Everybody’s saying that nightclub sensation Breathless Mahoney is washed up. Between acts at the struggling mob-run club she calls home, she…",
+      "url": "https://www.bricktheater.com/event/how-to-be-normal-and-regular/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-27",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-27T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-28T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "2:00pm",
+          "minutes": 840,
+          "datetime": "2026-08-29T14:00:00-04:00"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-29T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "2:00pm",
+          "minutes": 840,
+          "datetime": "2026-08-30T14:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

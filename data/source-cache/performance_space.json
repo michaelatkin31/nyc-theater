@@ -1,0 +1,24 @@
+{
+  "venue": "Performance Space New York",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "performance_space-2bf3fb0519a1",
+      "title": "Open Room Activation - 2026-2027",
+      "venue": "Performance Space New York",
+      "venue_key": "performance_space",
+      "neighborhood": "East Village",
+      "description": "",
+      "url": "https://ci.ovationtix.com/203/production/1283950",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-19",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-19T19:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

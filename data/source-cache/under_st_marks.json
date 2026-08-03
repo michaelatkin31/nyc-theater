@@ -1,0 +1,1062 @@
+{
+  "venue": "Under St. Marks",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "under_st_marks-beccbc83e723",
+      "title": "Monologue for Two",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "This performance aims to raise funds to support people affected by the recent earthquakes in Venezuela.",
+      "url": "https://tickets.frigid.nyc/event/6897:1506",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "4:00pm",
+          "minutes": 960,
+          "datetime": "2026-08-02T16:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-1ef8528f2a9c",
+      "title": "Comediumship",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Psychic medium and stand up comedian Nelly Reznik will be performing Comediumship, an experimental combination of stand up comedy and audience readings.",
+      "url": "https://tickets.frigid.nyc/event/6897:502",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-08-02T19:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-c93dea83f656",
+      "title": "Emma",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "\"Emma\" is a harrowing story following a closeted, religious teenage boy, Hudson Pierce. As he navigates his way through learning who he is (with the help of his best friend, Parker) his path toward enlightenment is made into a cruel nightmare when he finds out his girlfriend, Lenny, is pregnant. Hudson is tormented…",
+      "url": "https://tickets.frigid.nyc/event/6897:1487",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "10:30pm",
+          "minutes": 1350,
+          "datetime": "2026-08-02T22:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-dadfd452edee",
+      "title": "Grade of Execution",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "A play by Catherine Shonack",
+      "url": "https://tickets.frigid.nyc/event/6897:1486",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-04T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-43169c76d741",
+      "title": "The Open Mic Downstairs @ Frigid New York",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "The show continues every Tuesday at 9:30 PM EST!",
+      "url": "https://tickets.frigid.nyc/event/6897:24",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-04",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-04T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-11",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-11T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-18T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-25T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-01T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-08T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-15T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-22T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-29T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-7e2d8634b9db",
+      "title": "Daniel Simonsen--Free to Fail",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "A night of experimental comedy with New York's Funniest Stand-Up 2022 winner Daniel Simonsen. Come watch the Norwegian build material as he works both scripted and completely unscripted. As seen on Late Night with Seth Meyers and The Late Show with Stephen Colbert.",
+      "url": "https://tickets.frigid.nyc/event/6897:1430",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-05",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-05T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-19T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-02",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-02T21:30:00-04:00"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-09-09T21:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-a6b64c785374",
+      "title": "As You Will",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Friends, foes, fools! Do you ever bemoan the fact that the 884,647 words William Shakespeare wrote have been performed already? Do you yearn for the experience of seeing The Bard's works for the first time? Then celebrate the glad tidings of As You Will and our Unscripted Shakespeare Show!",
+      "url": "https://tickets.frigid.nyc/event/6897:463",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-06",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-06T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-08-09T17:00:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-08-16T17:00:00-04:00"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-23T21:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-cbe9df59d7bf",
+      "title": "UNREHEARSED: A Midsummer Night's Dream",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "UNREHEARSED!: Shakespeare for Sports Fans",
+      "url": "https://tickets.frigid.nyc/event/6897:1484",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-06",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-06T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-07T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-11T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-688f8e816eea",
+      "title": "A Midsummer Night's Dreamier",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Comedian and writer Alise Morales reimagines Shakespeare’s classic comedy in a chaotic, irreverent new production of A Midsummer Night’s Dream that blends the Bard’s original text with sharp modern punch-ups. Featuring a diverse, gender-bent cast of some of NYC’s funniest character performers, the show lovingly…",
+      "url": "https://tickets.frigid.nyc/event/6897:1471",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-07",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-07T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "6:30pm",
+          "minutes": 1110,
+          "datetime": "2026-08-13T18:30:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "2:00pm",
+          "minutes": 840,
+          "datetime": "2026-08-15T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-95b64f35ff2f",
+      "title": "A Man Called Paris",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "In A Man Called Paris we get to follow Paris, a 40 year old gay man and professor of classical literature, who is being forced to marry the ruthless Capulet's teenage daughter Juliet, or they will out him to the world and destroy his life and reputation. Paris has just about come to terms with his fate when a dashing…",
+      "url": "https://tickets.frigid.nyc/event/6897:1470",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-08",
+          "time": "6:30pm",
+          "minutes": 1110,
+          "datetime": "2026-08-08T18:30:00-04:00"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "2:00pm",
+          "minutes": 840,
+          "datetime": "2026-08-09T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-92a9faba1305",
+      "title": "Gigi in Punk",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Man, woman, history, present, will, everything to be, and Shakespeare’s work. One kid tries to do it all, if they can. Limits go past numbers in this one person show. Join Gigi Moacdieh as they bring a different touch to some of the most famous scenes in history: themselves.",
+      "url": "https://tickets.frigid.nyc/event/6897:1474",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-08",
+          "time": "9:30pm",
+          "minutes": 1290,
+          "datetime": "2026-08-08T21:30:00-04:00"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-08-22T17:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-cb95aab3e150",
+      "title": "Ghostcreator",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "A paean to the Mystical in the theater, with echoes of Hamlet’s ghost.",
+      "url": "https://tickets.frigid.nyc/event/6897:1473",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-09T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-15T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-20T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-23T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-c912f9d634c5",
+      "title": "Ophelia: A Prism",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "In this solo performance, OPHELIA: A PRISM focuses on Shakespeare’s Hamlet to the ingénue Ophelia- or rather, three aspects of herself. These contrasting Sister Selves (Green, Brass, and Orange) take control of the original narrative to tell their own story of Black Femme joy, oppression, and resilience.",
+      "url": "https://tickets.frigid.nyc/event/6897:1478",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-09",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-09T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "2:00pm",
+          "minutes": 840,
+          "datetime": "2026-08-16T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-ad2ab3e0c566",
+      "title": "Underneath the Lintel",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "One battered travel guide. One hundred and fifty-three years overdue. One small-town Dutch librarian... who refuses to let the matter rest.",
+      "url": "https://tickets.frigid.nyc/event/6897:1462",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-10T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-47ee0fb341bc",
+      "title": "The Hex Pistols!",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "“The Hex Pistols!” is a rock opera starring the witches of Macbeth as the titular punk band. This alternative perspective of the Shakespearean tragedy follows the witches as they taunt the other characters and mock their misfortunes through song and spooky hijinks. Content Awareness: Violence is alluded to but not…",
+      "url": "https://tickets.frigid.nyc/event/6897:1482",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-12",
+          "time": "9:15pm",
+          "minutes": 1275,
+          "datetime": "2026-08-12T21:15:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-16T21:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-65cf08f1811e",
+      "title": "The Taming of the Shrew: A Kinky Retelling",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "What if he’s the shrew, and he enjoys the taming?",
+      "url": "https://tickets.frigid.nyc/event/6897:1483",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-13",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-13T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-14T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-d7f1d700f05d",
+      "title": "Raging of the Shrews: A Revenge Play",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Verily! Tis the revisionist murder spree every wench hath dreamt of: Shakespeare's two-timing, slut-shaming men finally get their comeuppance from the women they slandered, scorned, and dishonor'd. Why marry the guy who took your virginity, when you can kill him instead? But don't worry, as with all Shakespeare's…",
+      "url": "https://tickets.frigid.nyc/event/6897:1480",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-14",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-14T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-22T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-08-23T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-789249656d97",
+      "title": "Sisters Hand in Hand",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Sisterhood is powerful, but it isn’t always pretty in this triple bill of savage comedies inspired by Shakespeare. Meet Cleopatra’s asps; vengeful cross-dressing twins Violenta and Vendetta; and the three weird daughters of a witch who tempted Macbeth.",
+      "url": "https://tickets.frigid.nyc/event/6897:1481",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-15",
+          "time": "4:30pm",
+          "minutes": 990,
+          "datetime": "2026-08-15T16:30:00-04:00"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-20T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "1:00pm",
+          "minutes": 780,
+          "datetime": "2026-08-23T13:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-19e7025e5c43",
+      "title": "Model ShakesParody: A Comedy Night of Errors",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Join Model Majority for a night of Shakespeare-inspired sketch comedy, music and more. Think SNL meets Shakespeare (you have never seen before) performed by a diverse cast of characters.",
+      "url": "https://tickets.frigid.nyc/event/6897:1477",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-16",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-16T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-269a0fa846a5",
+      "title": "A Spanglish Affair Open Mic",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Spanglish Affair Open Mic",
+      "url": "https://tickets.frigid.nyc/event/6897:710",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-17",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-17T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-21T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-ebec4382dcce",
+      "title": "Adam Wade: LIVE IN NEW YORK!",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Adam Wade, the 20-time Moth Story Slam winner, creator of the #1 Best Selling Audible Original 'You Ought To Know Adam Wade' and from TV’s 'Inside Amy Schumer' and 'Girls' returns to Under Saint Marks Theater! This monthly storytelling show will feature three to four different stories from Adam’s extensive catalog.…",
+      "url": "https://tickets.frigid.nyc/event/6897:476",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-19",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-19T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-4bca191e34b0",
+      "title": "Lupercalia, or the queer aftermath of Twelfth Night",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Following the events of Shakespeare's Twelfth Night, Olivia and Viola find themselves unhappy in their marriage arrangements, despite what you have been made to think. In this queer and trans only piece, follow Liv and Vi as they navigate what their relationship means now that they are both married to twinks.…",
+      "url": "https://tickets.frigid.nyc/event/6897:1476",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-21",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-21T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-62765a2a9524",
+      "title": "JUSTICE FOR A PUNK: NEITHER MAID, WIDOW, NOR WIFE",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "In this adaptation of “Measure for Measure”, Isa, a christian adult content creator takes on the responsibility of supporting her brother's legal battle while struggling through his disproval for her work.",
+      "url": "https://tickets.frigid.nyc/event/6897:1475",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-21",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-21T21:00:00-04:00"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-08-23T17:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-512e2aae6b8b",
+      "title": "Brave Sons Of England",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Brave Sons of England is a new musical with a classic sound. It follows the story of Shakespeare's Henriad plays, Richard the Second, Henry the Fourth parts One and Two, and Henry the Fifth, telling the story of a series of rebellions and trying to answer the age old question of what gives a man the right to rule.",
+      "url": "https://tickets.frigid.nyc/event/6897:1472",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-22",
+          "time": "2:00pm",
+          "minutes": 840,
+          "datetime": "2026-08-22T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-fdd8ddde0ebc",
+      "title": "Poor Hanging Fool",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "King Lear is a puppet. His daughter his fool. They each have nothing but each other.",
+      "url": "https://tickets.frigid.nyc/event/6897:1479",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-22",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-22T21:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-b94f1e5826be",
+      "title": "Shadows and Sunlight",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Rock & A Hard Place: On a barren mountainside, Sisyphus and Prometheus serve their damnations. As eternity stretches on, their clashing philosophies ignite a darkly comic exploration of blame, resilience, and the fragility of masculinity",
+      "url": "https://tickets.frigid.nyc/event/6897:1511",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-24",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-24T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-25T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-aa1c27d49f30",
+      "title": "thwack. Summer Series",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "The thwack. Summer Series will be a celebratory night of staged readings, where our upcoming theater company members will share their writing. These riveting stories encompass experiences of young love, tragedy, heroism, family dynamics, and global cultural exploration. Come witness a group of fierce theater-makers…",
+      "url": "https://tickets.frigid.nyc/event/6897:1512",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-24",
+          "time": "9:00pm",
+          "minutes": 1260,
+          "datetime": "2026-08-24T21:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-708c9cd54ce8",
+      "title": "Paper Kraine",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Paper Kraine was created in 2016 to bring together works in development, artists, and audiences in support of nonprofits. Monthly, the PK team curates a new works sample platter around a theme and donates all proceeds to a selected nonprofit.",
+      "url": "https://tickets.frigid.nyc/event/6897:584",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-26",
+          "time": "7:30pm",
+          "minutes": 1170,
+          "datetime": "2026-08-26T19:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-eb41f670373f",
+      "title": "Flannery & Evie Show",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Sketch show from the minds of two girls who like to lay in the park and sometimes on one of their couches.",
+      "url": "https://tickets.frigid.nyc/event/6897:1513",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-27",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-27T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-213a0afb01d4",
+      "title": "FRIGID Nightcap",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "FRIGID Nightcap July 31st: FUTURE TENSE",
+      "url": "https://tickets.frigid.nyc/event/6897:646",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-28",
+          "time": "10:30pm",
+          "minutes": 1350,
+          "datetime": "2026-08-28T22:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-81295b1b3187",
+      "title": "Sins and Stardust Burlesque: Tribute to the 80s",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "",
+      "url": "https://tickets.frigid.nyc/event/6897:1489",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-31",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-31T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-6d254cc8562e",
+      "title": "The Notey Boys",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "After making the worst mistake of his life, Tanis Zaman is finally ready to move on.",
+      "url": "https://tickets.frigid.nyc/event/6897:1509",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-02",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-02T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-03T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-05T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-05T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-06T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-06T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-3d8037e2191c",
+      "title": "Neurotica Fest Opening Night Soiree",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Opening night celebration of Iris Bahr's Neurotica Fest, featuring best-selling author and actor Annabelle Gurwitch reading from her new memoir \"The End of My Life is Killing Me\", performances by singer songwriter Alma Perry Peleg, and a very special band, plus teasers of the Neurotica line-up presented by the…",
+      "url": "https://tickets.frigid.nyc/event/6897:1505",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-10",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-09-10T17:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-23a7187e356a",
+      "title": "MOM! WTF!!",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "MOM! WTF!! is a comedy confessional about being raised by a “happy homemaker” in the era of free love and free-range parenting. Mothers in this time period went from June Clever to Gloria Steinem in under a decade, this had to be cultural whiplash. Somehow she still became a mom herself. Carol Johnson delivers sharp…",
+      "url": "https://tickets.frigid.nyc/event/6897:1501",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-10T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "1:00pm",
+          "minutes": 780,
+          "datetime": "2026-09-13T13:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-0d2f0496d4a5",
+      "title": "Double Feature: \"WHAT X GAVE TO ME\" & \"Middle Man\"",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "This evening will feature TWO productions in the Neurotica Festival!",
+      "url": "https://tickets.frigid.nyc/event/6897:1507",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-10",
+          "time": "8:30pm",
+          "minutes": 1230,
+          "datetime": "2026-09-10T20:30:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "2:30pm",
+          "minutes": 870,
+          "datetime": "2026-09-13T14:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-a2595807fd77",
+      "title": "Cl*t Cult",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Cl*t Cult is written and performed by Star Stone (Edinburgh Fringe, UCB) , directed by Ryan Cunningham (Sam Morrison's Sugar Daddy, Chanel Ali's Relative Stranger) and featuring original music by Star Stone and Charlie O’Connor (FX’s Adults) .",
+      "url": "https://tickets.frigid.nyc/event/6897:1495",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-10",
+          "time": "10:00pm",
+          "minutes": 1320,
+          "datetime": "2026-09-10T22:00:00-04:00"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "10:00pm",
+          "minutes": 1320,
+          "datetime": "2026-09-11T22:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-e7d1f8f416ce",
+      "title": "Gigi Dabrowski: The Untold Story",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Gigi Dabrowski is serving the final stretch of her house arrest, and she's determined to use her newfound platform to tell the truth—or at least her version of it. Gigi recounts the events that led to her downfall, reflects on her complicated relationships, and offers unsolicited wisdom on everything from friendship…",
+      "url": "https://tickets.frigid.nyc/event/6897:1497",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-11T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "4:00pm",
+          "minutes": 960,
+          "datetime": "2026-09-12T16:00:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "5:30pm",
+          "minutes": 1050,
+          "datetime": "2026-09-13T17:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-78faafaaeda4",
+      "title": "IRIS BAHR IN CONVERSATION WITH AUTHOR KURT ANDERSEN",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Join best-selling author Kurt Andersen, and award-winning actor, author, comic and founder of Neurotica Fest, Iris Bahr, (Curb Your Enthusiasm, Hacks) as they performs excerpts from Kurt's hit new novel, THE BREAKUP.",
+      "url": "https://tickets.frigid.nyc/event/6897:1499",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-11",
+          "time": "8:30pm",
+          "minutes": 1230,
+          "datetime": "2026-09-11T20:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-8159d349b851",
+      "title": "An American (NOT) in Paris",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "An OCD, ADHD, Gluten Free, Gen Z, One Woman, Musical Comedy!",
+      "url": "https://tickets.frigid.nyc/event/6897:1494",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-12",
+          "time": "2:30pm",
+          "minutes": 870,
+          "datetime": "2026-09-12T14:30:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-13T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-3e7f607074ec",
+      "title": "400 Miles from Regular",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "400 Miles from Regular is a one-person show about a woman in mid-life who has decided it’s now or never to become who she truly is. Can she finally summon the courage to stand up to her controlling soon to be ex-husband, her toxically positive sister, and her video-game addicted teenage son. Can she surprise herself…",
+      "url": "https://tickets.frigid.nyc/event/6897:1493",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-12",
+          "time": "5:30pm",
+          "minutes": 1050,
+          "datetime": "2026-09-12T17:30:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "8:30pm",
+          "minutes": 1230,
+          "datetime": "2026-09-13T20:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-70c5ffef18db",
+      "title": "Double Feature: \"Girl Tall\" & \"...but what if it rains?\"",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "This evening will feature TWO productions in the Neurotica Festival!",
+      "url": "https://tickets.frigid.nyc/event/6897:1508",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-12",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-12T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "4:00pm",
+          "minutes": 960,
+          "datetime": "2026-09-13T16:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-7f8d0d8c0f6a",
+      "title": "CRAVEY",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Cravey is a musical comedy exploring the insatiable need for love… and chicken tenders. An aspiring Disney princess moves to New York City and falls in love with a Bar Mitzvah DJ from New Jersey. Will it be the fairytale happily ever after of her dreams or will she be met with a more nightmarish journey of self…",
+      "url": "https://tickets.frigid.nyc/event/6897:1496",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-13",
+          "time": "11:30am",
+          "minutes": 690,
+          "datetime": "2026-09-13T11:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "under_st_marks-f0facec497b7",
+      "title": "Sins and Stardust Burlesque: September 28th",
+      "venue": "Under St. Marks",
+      "venue_key": "under_st_marks",
+      "neighborhood": "East Village",
+      "description": "Sins and Stardust Burlesque is a spellbinding series from producers Stiletto Sinclair and Jackie Galaxy, featuring a rotating cast of dazzling burlesque stars, high-energy go-go dancing, and unforgettable headliners. From classic striptease to genre-bending surprises, no two nights are ever the same, just…",
+      "url": "https://tickets.frigid.nyc/event/6897:1490",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-28",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-28T19:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

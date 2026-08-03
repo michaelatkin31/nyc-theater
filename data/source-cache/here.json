@@ -1,0 +1,108 @@
+{
+  "venue": "HERE Arts Center",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "here-6e13c2a35470",
+      "title": "Bryan Safi: Are You Mad At Me??",
+      "venue": "HERE Arts Center",
+      "venue_key": "here",
+      "neighborhood": "SoHo",
+      "description": "Following a hit run at the Edinburgh Fringe, comedian Bryan Safi brings Are You Mad at Me?? to New York.",
+      "url": "https://here.org/shows/bryan-safi-are-you-mad-at-me/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-02",
+          "time": "6:30pm",
+          "minutes": 1110,
+          "datetime": "2026-08-02T18:30:00-04:00"
+        },
+        {
+          "date": "2026-08-06",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-06T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-07T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-08-08T17:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-08T20:00:00-04:00"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "6:30pm",
+          "minutes": 1110,
+          "datetime": "2026-08-09T18:30:00-04:00"
+        },
+        {
+          "date": "2026-08-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-10T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-13T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-14T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "5:00pm",
+          "minutes": 1020,
+          "datetime": "2026-08-15T17:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "8:00pm",
+          "minutes": 1200,
+          "datetime": "2026-08-15T20:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "here-c19e8a9e9ee3",
+      "title": "CHOOSE WONDER: HERE’s 2026/27 Season",
+      "venue": "HERE Arts Center",
+      "venue_key": "here",
+      "neighborhood": "SoHo",
+      "description": "The forces that would have us turn away from each other, that would have us distrust our neighbors and fear the unfamiliar, are louder than they have been in a long time. Gathering around art, song, dance, and story has always been how people metabolize the unbearable, imagine the impossible, and reach across great…",
+      "url": "https://here.org/shows/choose-wonder-heres-2026-27-season/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-19",
+          "time": "3:00pm",
+          "minutes": 900,
+          "datetime": "2026-09-19T15:00:00-04:00"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "6:00pm",
+          "minutes": 1080,
+          "datetime": "2026-09-19T18:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

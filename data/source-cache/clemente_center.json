@@ -1,0 +1,132 @@
+{
+  "venue": "The Clemente",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "clemente_center-60194bc9e5d5",
+      "title": "International Puppet Fringe Festival NYC",
+      "venue": "The Clemente",
+      "venue_key": "clemente_center",
+      "neighborhood": "Lower East Side",
+      "description": "Wednesday, August 12, 2026 11:00 AM ‍ ‍ Press Conference ‍ ‍ SEA 4:00 PM ‍ ‍ Puppet Lounge ‍ ‍ La Esquinita (Canopy) 7:00 PM- 9:00 PM ART EXHIBITION ‍ ‍ Theodora Skipitares Abrazo Interno 4:30 PM- 9:00 PM PHOTOGRAPHIC EXHIBITION ‍ ‍ Nancy Staub LES Gallery 4:30 PM- 9:00 PM",
+      "url": "https://www.theclementecenter.org/calendar/international-puppet-fringe-festival-nyc",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-12",
+          "time": "11:00am",
+          "minutes": 660,
+          "datetime": "2026-08-12T11:00:00-04:00"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "10:00am",
+          "minutes": 600,
+          "datetime": "2026-08-13T10:00:00-04:00"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "10:00am",
+          "minutes": 600,
+          "datetime": "2026-08-14T10:00:00-04:00"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "10:00am",
+          "minutes": 600,
+          "datetime": "2026-08-15T10:00:00-04:00"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "10:00am",
+          "minutes": 600,
+          "datetime": "2026-08-16T10:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "clemente_center-7e6f47f6844c",
+      "title": "L A V E N T A N A D E L O S C H É V E R E",
+      "venue": "The Clemente",
+      "venue_key": "clemente_center",
+      "neighborhood": "Lower East Side",
+      "description": "\"La Ventana de los Chévere\" es una tragicomedia que narra la historia de los Chévere: una familia hispana cuya vida queda marcada desde los atentados del 11 de septiembre de 2001 hasta el colapso de la burbuja inmobiliaria que devastó la economía del país en el 2008.",
+      "url": "https://teatrolatea.org/event/l-a-v-e-n-t-a-n-a-d-e-l-o-s-c-h-e-v-e-r-e/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-03",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-03T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-04T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-05T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "4:00pm",
+          "minutes": 960,
+          "datetime": "2026-09-06T16:00:00-04:00"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-10T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-12T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "4:00pm",
+          "minutes": 960,
+          "datetime": "2026-09-13T16:00:00-04:00"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-17T19:00:00-04:00"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-18T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "clemente_center-23220318bfeb",
+      "title": "L A V E N T A N A D E L O S C H É V E R E – SPECIAL 25TH ANNIVERSARY SHOW",
+      "venue": "The Clemente",
+      "venue_key": "clemente_center",
+      "neighborhood": "Lower East Side",
+      "description": "SPECIAL 25TH ANNIVERSARY SHOW: \"La ventana de los Chévere\" es una tragicomedia que narra la historia de los Chévere: una familia hispana cuya vida queda marcada desde los atentados del 11 de septiembre de 2001 hasta el colapso de la burbuja inmobiliaria que devastó la economía del país en el 2008.",
+      "url": "https://teatrolatea.org/event/l-a-v-e-n-t-a-n-a-d-e-l-o-s-c-h-e-v-e-r-e-6/",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-09-11",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-09-11T19:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

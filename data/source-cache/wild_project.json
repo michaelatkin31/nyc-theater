@@ -1,0 +1,48 @@
+{
+  "venue": "wild project",
+  "fetched_at": "2026-08-02T21:29:13-04:00",
+  "events": [
+    {
+      "id": "wild_project-24e4bc9286d4",
+      "title": "Higher Than A Body",
+      "venue": "wild project",
+      "venue_key": "wild_project",
+      "neighborhood": "East Village",
+      "description": "Written and performed by Neil Totton August 7-8, 2026 - 7pm wild project’s 2026 Mikéah Jennings Artist-in-Residence This work-in-progress presentation of Higher Than A Body is a solo performance with original music by multidisciplinary performing artist Neil Totton. Set in May 2020 during the global pandemic within…",
+      "url": "https://ci.ovationtix.com/621/production/1281417",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-07",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-07T19:00:00-04:00"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-08T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "id": "wild_project-bd7d68a581e3",
+      "title": "Sound Stage 2026",
+      "venue": "wild project",
+      "venue_key": "wild_project",
+      "neighborhood": "East Village",
+      "description": "Friday, August 21, 2026 7:00pm Tickets $13.02 (including fees) Curated by Cyrus Aaron with Featured Artists Briana Swan and Jamie Owens SOUND STAGE is a live performance campaign that supports independent artists and promotes the need for community spaces. Annually, we select at least six performance artists,…",
+      "url": "https://ci.ovationtix.com/621/production/1281224",
+      "source": "NYC Small Stages",
+      "performances": [
+        {
+          "date": "2026-08-21",
+          "time": "7:00pm",
+          "minutes": 1140,
+          "datetime": "2026-08-21T19:00:00-04:00"
+        }
+      ]
+    }
+  ]
+}

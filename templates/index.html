@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f2efdf">
+  <meta name="description" content="A date-first guide to indie theater across ten New York City stages.">
+  <title>NYC Indie Theater</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #f2efdf;
+      --ink: #171713;
+      --muted: #67655c;
+      --line: #c6c1af;
+      --red: #e84c32;
+      --yellow: #e6ef63;
+      --white: #fffef8;
+      --shadow: 3px 3px 0 var(--ink);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(rgba(23, 23, 19, .035) 1px, transparent 1px),
+        var(--paper);
+      background-size: 100% 28px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      line-height: 1.45;
+    }
+    button, input, select { font: inherit; color: inherit; }
+    button, select { cursor: pointer; }
+    a { color: inherit; }
+    .shell { width: min(1120px, calc(100% - 32px)); margin: 0 auto; }
+    .masthead { padding: 28px 0 20px; border-bottom: 2px solid var(--ink); }
+    .brand-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
+    .brand {
+      margin: 0;
+      max-width: 760px;
+      font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+      font-size: clamp(3.25rem, 10vw, 7.75rem);
+      font-weight: 900;
+      letter-spacing: -.045em;
+      line-height: .82;
+      text-transform: uppercase;
+    }
+    .brand span { display: block; color: var(--red); }
+    .edition {
+      flex: none;
+      border: 2px solid var(--ink);
+      padding: 8px 10px;
+      background: var(--yellow);
+      box-shadow: var(--shadow);
+      font-size: .73rem;
+      font-weight: 850;
+      letter-spacing: .08em;
+      line-height: 1.25;
+      text-transform: uppercase;
+      transform: rotate(2deg);
+    }
+    .dek { display: flex; justify-content: space-between; gap: 24px; align-items: end; margin-top: 24px; }
+    .dek p { max-width: 660px; margin: 0; font-family: Georgia, serif; font-size: clamp(1.08rem, 2vw, 1.35rem); }
+    .updated { margin: 0; color: var(--muted); font-size: .76rem; font-weight: 750; text-transform: uppercase; letter-spacing: .06em; white-space: nowrap; }
+    .filters {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      padding: 14px 0 12px;
+      background: rgba(242, 239, 223, .96);
+      border-bottom: 2px solid var(--ink);
+      backdrop-filter: blur(10px);
+    }
+    .filter-label { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 8px; }
+    .filter-label strong { font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; }
+    .filter-label small { color: var(--muted); font-size: .72rem; }
+    .date-strip { display: flex; gap: 8px; overflow-x: auto; padding: 2px 3px 8px 2px; scrollbar-width: thin; }
+    .date-chip {
+      flex: 0 0 82px;
+      min-height: 58px;
+      border: 1.5px solid var(--ink);
+      border-radius: 0;
+      padding: 7px 8px 6px;
+      background: var(--white);
+      text-align: left;
+      box-shadow: 2px 2px 0 var(--ink);
+    }
+    .date-chip .dow { display: block; font-size: .7rem; font-weight: 850; letter-spacing: .08em; text-transform: uppercase; }
+    .date-chip .date { display: block; margin-top: 2px; font-family: Georgia, serif; font-size: .93rem; }
+    .date-chip .mode { display: block; color: var(--muted); font-size: .62rem; font-weight: 850; letter-spacing: .06em; text-transform: uppercase; }
+    .date-chip[data-state="all"] { background: var(--yellow); }
+    .date-chip[data-state="evening"] { color: var(--white); background: var(--ink); }
+    .date-chip[data-state="evening"] .mode { color: var(--yellow); }
+    .date-chip:focus-visible, .quick:focus-visible, input:focus-visible, select:focus-visible, .details:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+    .filter-grid { display: grid; grid-template-columns: minmax(200px, 1fr) minmax(180px, .55fr) 154px auto; gap: 9px; margin-top: 4px; }
+    .control {
+      width: 100%;
+      height: 43px;
+      border: 1.5px solid var(--ink);
+      border-radius: 0;
+      background: var(--white);
+      padding: 0 12px;
+    }
+    .quick-row { display: flex; gap: 7px; }
+    .quick {
+      min-height: 43px;
+      border: 1.5px solid var(--ink);
+      border-radius: 0;
+      background: var(--white);
+      padding: 0 11px;
+      font-size: .74rem;
+      font-weight: 850;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .quick:hover { background: var(--yellow); }
+    main { padding: 24px 0 64px; min-height: 45vh; }
+    .results-head { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding-bottom: 10px; }
+    #result-count { margin: 0; font-family: Georgia, serif; font-size: 1.1rem; font-weight: normal; }
+    #active-summary { color: var(--muted); font-size: .76rem; font-weight: 750; letter-spacing: .04em; text-transform: uppercase; text-align: right; }
+    .list { border-top: 2px solid var(--ink); }
+    .event {
+      display: grid;
+      grid-template-columns: 126px minmax(0, 1fr) 154px;
+      gap: 22px;
+      padding: 22px 0 24px;
+      border-bottom: 1.5px solid var(--ink);
+    }
+    .when { font-weight: 850; text-transform: uppercase; }
+    .when-date { display: block; color: var(--red); font-size: .78rem; letter-spacing: .05em; }
+    .when-time { display: block; margin-top: 2px; font-family: Georgia, serif; font-size: 1.35rem; text-transform: none; }
+    .title { margin: 0; font-size: clamp(1.25rem, 2.5vw, 1.75rem); line-height: 1.08; letter-spacing: -.02em; }
+    .place { margin: 7px 0 0; font-size: .78rem; font-weight: 850; letter-spacing: .055em; text-transform: uppercase; }
+    .place span { color: var(--muted); font-weight: 650; }
+    .description { max-width: 720px; margin: 11px 0 0; color: #45443e; font-family: Georgia, serif; font-size: .96rem; }
+    .schedule { align-self: start; }
+    .schedule-label { display: block; margin-bottom: 5px; color: var(--muted); font-size: .65rem; font-weight: 850; letter-spacing: .08em; text-transform: uppercase; }
+    .schedule-times { margin: 0; font-size: .78rem; line-height: 1.55; }
+    .details { display: inline-block; margin-top: 12px; padding-bottom: 2px; border-bottom: 2px solid var(--red); font-size: .73rem; font-weight: 900; letter-spacing: .06em; text-decoration: none; text-transform: uppercase; }
+    .details:hover { color: var(--red); }
+    .empty { padding: 64px 16px; border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); text-align: center; }
+    .empty strong { display: block; font-family: Georgia, serif; font-size: 1.4rem; }
+    .empty span { display: block; margin-top: 6px; color: var(--muted); }
+    .hidden { display: none !important; }
+    footer { padding: 24px 0 36px; border-top: 2px solid var(--ink); color: var(--muted); font-size: .76rem; }
+    footer .shell { display: flex; justify-content: space-between; gap: 24px; }
+    footer p { margin: 0; max-width: 700px; }
+    footer a { color: var(--ink); font-weight: 800; }
+    @media (max-width: 760px) {
+      .shell { width: min(100% - 22px, 1120px); }
+      .masthead { padding-top: 20px; }
+      .brand { font-size: clamp(3.15rem, 20vw, 5.4rem); }
+      .brand-row { gap: 10px; }
+      .edition { padding: 6px; font-size: .58rem; box-shadow: 2px 2px 0 var(--ink); }
+      .dek { display: block; margin-top: 18px; }
+      .dek p { font-size: 1rem; }
+      .updated { margin-top: 10px; white-space: normal; }
+      .filters { position: static; padding-top: 10px; }
+      .filter-label small { display: none; }
+      .date-strip { margin-right: -11px; }
+      .filter-grid { grid-template-columns: 1fr 1fr; }
+      .filter-grid .quick-row { grid-column: 1 / -1; }
+      .quick { flex: 1; }
+      main { padding-top: 17px; }
+      .event { grid-template-columns: 94px minmax(0, 1fr); gap: 12px; padding: 18px 0 20px; }
+      .schedule { grid-column: 2; }
+      .when-time { font-size: 1.12rem; }
+      .title { font-size: 1.28rem; }
+      .description { display: -webkit-box; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; font-size: .91rem; }
+      .schedule-times { font-size: .76rem; }
+      footer .shell { display: block; }
+      footer p + p { margin-top: 10px; }
+    }
+    @media (max-width: 420px) {
+      .edition { display: none; }
+      .filter-grid { grid-template-columns: 1fr; }
+      .filter-grid .quick-row { grid-column: auto; }
+      .event { grid-template-columns: 82px minmax(0, 1fr); }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="shell">
+      <div class="brand-row">
+        <h1 class="brand">NYC Indie <span>Theater</span></h1>
+        <div class="edition">10 stages<br>60 days<br>no scores</div>
+      </div>
+      <div class="dek">
+        <p>A date-first guide to what’s on at small, artist-led stages around New York—every production, no ratings required.</p>
+        <p class="updated">Updated <time datetime="{{ payload.generated_at }}" id="updated-time">{{ payload.generated_at[:10] }}</time></p>
+      </div>
+    </div>
+  </header>
+
+  <section class="filters" aria-label="Performance filters">
+    <div class="shell">
+      <div class="filter-label">
+        <strong>Pick dates</strong>
+        <small>Tap a date: all day → after 5pm → off</small>
+      </div>
+      <div class="date-strip" id="date-strip" aria-label="Dates"></div>
+      <div class="filter-grid">
+        <input class="control" id="search" type="search" placeholder="Search productions…" aria-label="Search productions">
+        <select class="control" id="venue" aria-label="Filter by presenter">
+          <option value="">All 10 presenters</option>
+          {% for venue in venues %}<option value="{{ venue.key }}">{{ venue.name }}</option>{% endfor %}
+        </select>
+        <input class="control" id="date-picker" type="date" aria-label="Choose another date" title="Choose another date">
+        <div class="quick-row">
+          <button class="quick" type="button" id="tonight">Tonight</button>
+          <button class="quick" type="button" id="week">7 days</button>
+          <button class="quick" type="button" id="clear">Clear</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="shell">
+    <div class="results-head">
+      <h2 id="result-count" aria-live="polite"></h2>
+      <div id="active-summary"></div>
+    </div>
+    <div class="list" id="event-list"></div>
+    <div class="empty hidden" id="empty-state">
+      <strong>No curtains up for that combination.</strong>
+      <span>Try another date, presenter, or search.</span>
+    </div>
+  </main>
+
+  <footer>
+    <div class="shell">
+      <p>Schedules are gathered from <a href="{{ payload.source.url }}">{{ payload.source.name }}</a> and always link to the presenter’s official listing. Check the official page before heading out; live performance schedules change.</p>
+      <p><a href="https://github.com/michaelatkin31/nyc-theater">Source &amp; health</a></p>
+    </div>
+  </footer>
+
+  <script>
+    const DATA = {{ payload | tojson }};
+    const dateStates = new Map();
+    const strip = document.querySelector('#date-strip');
+    const list = document.querySelector('#event-list');
+    const emptyState = document.querySelector('#empty-state');
+    const resultCount = document.querySelector('#result-count');
+    const summary = document.querySelector('#active-summary');
+    const search = document.querySelector('#search');
+    const venue = document.querySelector('#venue');
+    const datePicker = document.querySelector('#date-picker');
+    const stateOrder = ['off', 'all', 'evening'];
+
+    function localISO(date) {
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    }
+
+    function dateAt(offset) {
+      const value = new Date();
+      value.setHours(12, 0, 0, 0);
+      value.setDate(value.getDate() + offset);
+      return value;
+    }
+
+    function performanceIsFuture(performance) {
+      return new Date(performance.datetime).getTime() > Date.now() - 30 * 60 * 1000;
+    }
+
+    function buildDateStrip() {
+      strip.innerHTML = '';
+      for (let offset = 0; offset < 7; offset += 1) {
+        const date = dateAt(offset);
+        const iso = localISO(date);
+        if (!dateStates.has(iso)) dateStates.set(iso, 'off');
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'date-chip';
+        button.dataset.date = iso;
+        button.setAttribute('aria-label', `Filter ${date.toLocaleDateString([], { weekday: 'long', month: 'long', day: 'numeric' })}`);
+        button.addEventListener('click', () => {
+          const current = dateStates.get(iso) || 'off';
+          dateStates.set(iso, stateOrder[(stateOrder.indexOf(current) + 1) % stateOrder.length]);
+          updateDateButtons();
+          render();
+        });
+        strip.append(button);
+      }
+      updateDateButtons();
+    }
+
+    function updateDateButtons() {
+      strip.querySelectorAll('.date-chip').forEach((button, index) => {
+        const iso = button.dataset.date;
+        const state = dateStates.get(iso) || 'off';
+        const date = dateAt(index);
+        button.dataset.state = state;
+        button.setAttribute('aria-pressed', state !== 'off');
+        button.innerHTML = `
+          <span class="dow">${index === 0 ? 'Today' : date.toLocaleDateString([], { weekday: 'short' })}</span>
+          <span class="date">${date.toLocaleDateString([], { month: 'short', day: 'numeric' })}</span>
+          <span class="mode">${state === 'all' ? 'All day' : state === 'evening' ? 'After 5' : 'Off'}</span>`;
+      });
+    }
+
+    function selectedPerformances(event) {
+      return event.performances.filter(performance => {
+        const state = dateStates.get(performance.date) || 'off';
+        if (state === 'off' || !performanceIsFuture(performance)) return false;
+        return state !== 'evening' || performance.minutes >= 17 * 60;
+      });
+    }
+
+    function eventMatches(event) {
+      const query = search.value.trim().toLocaleLowerCase();
+      const searchable = `${event.title} ${event.venue} ${event.neighborhood} ${event.description}`.toLocaleLowerCase();
+      return (!query || searchable.includes(query))
+        && (!venue.value || event.venue_key === venue.value)
+        && selectedPerformances(event).length > 0;
+    }
+
+    function formatDate(iso, compact = false) {
+      const date = new Date(`${iso}T12:00:00`);
+      return date.toLocaleDateString([], compact
+        ? { weekday: 'short', month: 'short', day: 'numeric' }
+        : { weekday: 'long', month: 'short', day: 'numeric' });
+    }
+
+    function escapeHTML(value) {
+      return String(value).replace(/[&<>'"]/g, character => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+      })[character]);
+    }
+
+    function scheduleHTML(performances) {
+      const grouped = new Map();
+      performances.forEach(performance => {
+        if (!grouped.has(performance.date)) grouped.set(performance.date, []);
+        grouped.get(performance.date).push(performance.time);
+      });
+      return [...grouped.entries()].map(([date, times]) =>
+        `<div><strong>${escapeHTML(formatDate(date, true))}</strong> · ${times.map(escapeHTML).join(', ')}</div>`
+      ).join('');
+    }
+
+    function render() {
+      const matches = DATA.events
+        .filter(eventMatches)
+        .map(event => ({ event, performances: selectedPerformances(event) }))
+        .sort((a, b) => a.performances[0].datetime.localeCompare(b.performances[0].datetime)
+          || a.event.title.localeCompare(b.event.title));
+
+      list.innerHTML = matches.map(({ event, performances }) => {
+        const first = performances[0];
+        const description = event.description
+          ? `<p class="description">${escapeHTML(event.description)}</p>` : '';
+        return `<article class="event">
+          <div class="when">
+            <span class="when-date">${escapeHTML(formatDate(first.date, true))}</span>
+            <span class="when-time">${escapeHTML(first.time)}</span>
+          </div>
+          <div>
+            <h3 class="title">${escapeHTML(event.title)}</h3>
+            <p class="place">${escapeHTML(event.venue)} <span>· ${escapeHTML(event.neighborhood)}</span></p>
+            ${description}
+          </div>
+          <div class="schedule">
+            <span class="schedule-label">Selected performances</span>
+            <div class="schedule-times">${scheduleHTML(performances)}</div>
+            <a class="details" href="${escapeHTML(event.url)}" target="_blank" rel="noopener">Official details ↗</a>
+          </div>
+        </article>`;
+      }).join('');
+
+      const productionWord = matches.length === 1 ? 'production' : 'productions';
+      const performanceCount = matches.reduce((total, match) => total + match.performances.length, 0);
+      const performanceWord = performanceCount === 1 ? 'performance' : 'performances';
+      resultCount.textContent = `${matches.length} ${productionWord}`;
+      summary.textContent = `${performanceCount} ${performanceWord}`;
+      emptyState.classList.toggle('hidden', matches.length !== 0);
+      list.classList.toggle('hidden', matches.length === 0);
+    }
+
+    function setAllDates(state) {
+      dateStates.clear();
+      for (let offset = 0; offset < 7; offset += 1) {
+        dateStates.set(localISO(dateAt(offset)), state);
+      }
+      updateDateButtons();
+      render();
+    }
+
+    document.querySelector('#tonight').addEventListener('click', () => {
+      datePicker.value = '';
+      setAllDates('off');
+      dateStates.set(localISO(dateAt(0)), 'evening');
+      updateDateButtons();
+      render();
+    });
+    document.querySelector('#week').addEventListener('click', () => {
+      datePicker.value = '';
+      setAllDates('all');
+    });
+    document.querySelector('#clear').addEventListener('click', () => {
+      search.value = '';
+      venue.value = '';
+      datePicker.value = '';
+      setAllDates('off');
+    });
+    search.addEventListener('input', render);
+    venue.addEventListener('change', render);
+    datePicker.addEventListener('change', () => {
+      if (!datePicker.value) return;
+      dateStates.clear();
+      dateStates.set(datePicker.value, 'all');
+      updateDateButtons();
+      render();
+    });
+
+    const updated = new Date(DATA.generated_at);
+    document.querySelector('#updated-time').textContent = updated.toLocaleString([], {
+      month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit'
+    });
+
+    buildDateStrip();
+    datePicker.min = localISO(dateAt(0));
+    datePicker.max = localISO(dateAt(DATA.horizon_days));
+    const today = localISO(dateAt(0));
+    const hasTonight = DATA.events.some(event => event.performances.some(performance =>
+      performance.date === today && performance.minutes >= 17 * 60 && performanceIsFuture(performance)));
+    if (hasTonight) dateStates.set(today, 'evening');
+    else dateStates.forEach((_, date) => dateStates.set(date, 'all'));
+    updateDateButtons();
+    render();
+  </script>
+</body>
+</html>
